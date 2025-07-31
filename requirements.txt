@@ -1,0 +1,12 @@
+
+Flask
+keras
+Markdown
+numpy
+pandas
+requests
+scikit-learn
+scipy
+tensorboard
+tensorboard-data-server
+tensorflow
